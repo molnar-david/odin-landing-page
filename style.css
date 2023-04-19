@@ -145,3 +145,39 @@ a {
     font-weight: 1000;
     color: #1f2937;
 }
+
+.section-4 {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 120px 20%;
+    background-color: #3882f6;
+    padding: 40px 80px;
+    border-radius: 8px;
+    gap: 20px;
+}
+
+.section-4 .text {
+    flex: 1;
+}
+
+.section-4 .text .top {
+    font-size: 24px;
+    font-weight: bold;
+    color: #f9faf8;
+}
+
+.section-4 .text .bottom {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.section-4 button {
+    background-color: #3882f6;
+    font-size: 18px;
+    font-weight: bold;
+    color: #f9faf8;
+    padding: 8px 40px;
+    border: 2px solid #f9faf8;
+    border-radius: 8px;
+}
