@@ -181,3 +181,11 @@ a {
     border: 2px solid #f9faf8;
     border-radius: 8px;
 }
+
+.footer {
+    font-size: 18px;
+    color: #e5e7eb;
+    text-align: center;
+    background-color: #1f2937;
+    padding: 40px;
+}
